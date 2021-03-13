@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import os
-import TrainFace_Method_2 as fr
+import TrainFace_Method_2_OpenCV as fr
 
 
 face_recognizer=cv2.face.LBPHFaceRecognizer_create()
